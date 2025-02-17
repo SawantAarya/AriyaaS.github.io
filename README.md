@@ -16,10 +16,3 @@ This website showcases my portfolio, projects, and other information about me.
 - **JavaScript**: Adding interactivity to the site (if applicable).
 - **GitHub Pages**: Hosting my website for free.
 
-## Installation Instructions
-If you'd like to set up this website locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AaryaSawant/AaryaSawant.github.io.git
-
